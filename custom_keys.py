@@ -3,9 +3,15 @@ from tkinter import Tk, Button
 import webbrowser
 from functools import partial
 import os
-import string
+import string 
 #from path.lib import Path
 from os import path
+
+#######################
+## Next Up Priorities #
+# 
+# simple (as possible) on the fly add a button from an inputted link
+##
 
 # run a shortcut 'shortcuts://run-shortcut?name=[name]'
 file_data =\
