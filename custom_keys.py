@@ -11,7 +11,9 @@ from os import path
 ## Next Up Priorities #
 # 
 # simple (as possible) on the fly add a button from an inputted link
-##
+#
+# connection with SQL communications_db as well as smart backup of workstations
+## (why not also consider this (or any) default WKSTN ("ical://","WorkFlowy://","http://www.Clockify")
 
 # run a shortcut 'shortcuts://run-shortcut?name=[name]'
 file_data =\
