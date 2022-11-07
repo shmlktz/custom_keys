@@ -91,6 +91,7 @@ Zoom: zoommtg://
 dictionary: dict://
 calm: calm://
 shortcuts: shortcuts://
+WorkFlowy: workflowy://
 
 """
 ######
