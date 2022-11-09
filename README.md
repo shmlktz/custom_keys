@@ -1,7 +1,11 @@
 # Custom Keys
 
 ## A project to improve workflows
-It operates by deploying multiple applications and webpages from a single click of a button. These applications and webpages are to be grouped together in a logical manner, that when opened together would save an individual precious time.
+This application operates by deploying multiple items (applications
+and webpages) from a single click of a button. The concept: group items
+together in a logical manner, that when they are
+all opened at once would create a workstation
+to save precious time.
 
 ## Requirements:
 1. Python  
