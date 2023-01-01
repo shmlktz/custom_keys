@@ -2,7 +2,7 @@
 
 ## A project to improve workflows
 This application is a workstation creator & operates by deploying multiple items (could be any number of applications, webpages, or both) from a single click of a button.
-These multiple items grouped together are called a workstation.
+These multiple items grouped together form a workstation.
 
 ## Organization of the application
 The data is organized in a Python list, which has in it lists of links (each list of links being the components of a workstation).
