@@ -1,8 +1,7 @@
 # Custom Keys
 
 ## A project to improve workflows
-This application is a workstation creator. It operates by deploying multiple items
-(could be any number of applications, webpages, or both) from a single click of a button.
+This application is a workstation creator & operates by deploying multiple items (could be any number of applications, webpages, or both) from a single click of a button.
 These multiple items grouped together are called a workstation.
 
 ## Organization of the application
