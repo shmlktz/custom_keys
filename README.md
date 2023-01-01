@@ -1,7 +1,7 @@
 # Custom Keys
 
 ## A project to improve workflows
-This application operates by deploying multiple items (applications
+This application is a workstation creator. It operates by deploying multiple items (applications
 and webpages) from a single click of a button. The multiple items are grouped
 together by creating a Python list of links. For every list, a button is created.
 When the button is pressed, all of the links associated with the button will open.
