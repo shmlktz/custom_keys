@@ -1,14 +1,19 @@
 # Custom Keys
 
 ## A project to improve workflows
-This application is a workstation creator. It operates by deploying multiple items (applications
-and webpages) from a single click of a button. The multiple items are grouped
-together by creating a Python list of links. For every list, a button is created.
+This application is a workstation creator. It operates by deploying multiple items
+(could be any number of applications, webpages, or both) from a single click of a button.
+These multiple items grouped together are called a workstation.
+
+## Organization of the application
+The data is organized in a Python list, which has in it lists of links (each list of links being the components of a workstation).
+Each list of links (nested in the main list), is represented on the application as a button created by the GUI.
 When the button is pressed, all of the links associated with the button will open.
-(I created this with the intention of opening both
-URL scheme links to open desktop applications as well as web links
-and I presume there are many other use cases for this program)
-### The concept:
+*(I created this with the intention of opening 
+URL scheme links to open desktop applications as well as web links.
+I presume there are many other use cases for this program, and I would love to hear your use cases & ideas)*
+
+## The concept:
 Group items together in a logical manner, so when they are
 all opened at once would create a workstation
 to save precious time. For example, one could open
